@@ -1,0 +1,6 @@
+@Finproject_HostAddress = http://permission.somee.com
+
+GET {{Finproject_HostAddress}}/api/ImagePrediction/predict
+Accept: application/json
+
+###
