@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Finproject\\Finproject\\Finproject.csproj": {}
+    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\PublishDot\\PublishDotNet\\Finproject\\Finproject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Finproject\\Finproject\\Finproject.csproj": {
+    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\PublishDot\\PublishDotNet\\Finproject\\Finproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Finproject\\Finproject\\Finproject.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\PublishDot\\PublishDotNet\\Finproject\\Finproject.csproj",
         "projectName": "Finproject",
-        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Finproject\\Finproject\\Finproject.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\PublishDot\\PublishDotNet\\Finproject\\Finproject.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Finproject\\Finproject\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\PublishDot\\PublishDotNet\\Finproject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
